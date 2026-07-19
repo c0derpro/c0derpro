@@ -24,14 +24,12 @@
 
 ### 📝 Latest Blog Posts
 - [Git Professional İş Axını (2026)](https://c0der.pro/az/blog/git-professional-is-axini)
-- [Mikroservis Arxitekturası: Monolitdən Keçid (2026)](https://c0der.pro/az/blog/mikroservis-arxitekturasi)
+- [Mikroservis Arxitekturası (2026)](https://c0der.pro/az/blog/mikroservis-arxitekturasi)
 - [UI/UX Dizayn Proqramçılar üçün (2026)](https://c0der.pro/az/blog/ui-ux-proqramcilar-ucun)
 - [Serverless Computing (2026)](https://c0der.pro/az/blog/serverless-computing-2026)
-- [Junior-dan Senior-a: Karyera Yol Xəritəsi (2026)](https://c0der.pro/az/blog/junior-senior-karyera)
+- [Junior-dan Senior-a (2026)](https://c0der.pro/az/blog/junior-senior-karyera)
 
-### 🚀 Portfolio: [c0der.pro](https://c0der.pro)
-- 💼 All projects: [c0der.pro](https://c0der.pro)
-- 📝 All articles: [c0der.pro/az/bloq](https://c0der.pro/az/bloq)
-
-### 📫 Contact
-- 🌍 [c0der.pro/az/elaqe](https://c0der.pro/az/elaqe)
+### 🔗 Links
+- 🌍 [c0der.pro](https://c0der.pro)
+- 💼 [LinkedIn](https://www.linkedin.com/in/c0derpro)
+- 🐙 [GitHub](https://github.com/c0derpro)
