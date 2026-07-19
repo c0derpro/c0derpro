@@ -16,6 +16,11 @@
 - 🏢 [Tikinti Şirkəti](https://c0der.pro/demos/tikinti/) — Corporate Website
 - 🏨 [Travel Agentliyi](https://c0der.pro/demos/travel/) — Tourism Website
 - 🚗 [Avtosalon](https://c0der.pro/demos/avtosalon/) — Car Dealership
+- 🏠 [Daşınmaz Əmlak](https://c0der.pro/demos/dasinmaz-emlak/) — Real Estate Portal
+- 💪 [Fitness Mərkəzi](https://c0der.pro/demos/fitness/) — Gym Website
+- ⚖️ [Hüquq Bürosu](https://c0der.pro/demos/huquq/) — Law Firm Website
+- 🏥 [Klinika](https://c0der.pro/demos/klinika/) — Medical Center
+- 🎓 [Online Təhsil](https://c0der.pro/demos/online-tehsil/) — LMS Platform
 
 ### 📝 Latest Blog Posts
 - [Git Professional İş Axını (2026)](https://c0der.pro/az/blog/git-professional-is-axini)
