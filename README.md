@@ -28,5 +28,5 @@
 - 🤖 Bots: Telegram/WhatsApp automation solutions
 
 ### 📫 Contact
-- Web: [c0der.pro](https://c0der.pro)
-- Telegram: [@c0derr_bot](https://t.me/c0derr_bot)
+- 🌍 [c0der.pro](https://c0der.pro)
+- 💬 [WhatsApp](https://wa.me/994519941220)
