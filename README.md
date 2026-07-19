@@ -34,4 +34,4 @@
 - 📝 All articles: [c0der.pro/az/bloq](https://c0der.pro/az/bloq)
 
 ### 📫 Contact
-- 🌍 [c0der.pro](https://c0der.pro)
+- 🌍 [c0der.pro/az/elaqe](https://c0der.pro/az/elaqe)
