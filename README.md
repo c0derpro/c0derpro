@@ -35,4 +35,5 @@
 
 ### 📫 Contact
 - 🌍 [c0der.pro/az/elaqe](https://c0der.pro/az/elaqe)
+- ✉️ [c0der.orxan@gmail.com](mailto:c0der.orxan@gmail.com)
 - 💬 [WhatsApp: 051 994 12 20](https://wa.me/994519941220)
