@@ -16,18 +16,14 @@
 - 🏢 [Tikinti Şirkəti](https://c0der.pro/demos/tikinti/) — Corporate Website
 - 🏨 [Travel Agentliyi](https://c0der.pro/demos/travel/) — Tourism Website
 - 🚗 [Avtosalon](https://c0der.pro/demos/avtosalon/) — Car Dealership
-- 🏠 [Daşınmaz Əmlak](https://c0der.pro/demos/dasinmaz-emlak/) — Real Estate Portal
-- 💪 [Fitness Mərkəzi](https://c0der.pro/demos/fitness/) — Gym Website
-- ⚖️ [Hüquq Bürosu](https://c0der.pro/demos/huquq/) — Law Firm Website
+- 🏠 [Dasinmaz Emlak](https://c0der.pro/demos/dasinmaz-emlak/) — Real Estate Portal
+- 💪 [Fitness Merkezi](https://c0der.pro/demos/fitness/) — Gym Website
+- ⚖️ [Huquq Burosu](https://c0der.pro/demos/huquq/) — Law Firm Website
 - 🏥 [Klinika](https://c0der.pro/demos/klinika/) — Medical Center
-- 🎓 [Online Təhsil](https://c0der.pro/demos/online-tehsil/) — LMS Platform
+- 🎓 [Online Tehsil](https://c0der.pro/demos/online-tehsil/) — LMS Platform
 
-### 📝 Latest Blog Posts
-- [Git Professional İş Axını (2026)](https://c0der.pro/az/blog/git-professional-is-axini)
-- [Mikroservis Arxitekturası (2026)](https://c0der.pro/az/blog/mikroservis-arxitekturasi)
-- [UI/UX Dizayn Proqramçılar üçün (2026)](https://c0der.pro/az/blog/ui-ux-proqramcilar-ucun)
-- [Serverless Computing (2026)](https://c0der.pro/az/blog/serverless-computing-2026)
-- [Junior-dan Senior-a (2026)](https://c0der.pro/az/blog/junior-senior-karyera)
+### 📝 Blog — [c0der.pro/az/bloq](https://c0der.pro/az/bloq)
+Veb sayt sifarisi, telegram bot, biznes avtomatlasdirma, proqramlasdirma ve suni intellekt movzularinda meqaleler (AZ/EN/RU).
 
 ### 🔗 Links
 - 🌍 [c0der.pro](https://c0der.pro)
