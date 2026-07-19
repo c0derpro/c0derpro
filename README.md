@@ -28,5 +28,5 @@
 - 🤖 Bots: Telegram/WhatsApp automation solutions
 
 ### 📫 Contact
-- 🌍 [c0der.pro](https://c0der.pro)
-- 💬 [WhatsApp](https://wa.me/994519941220)
+- 🌍 [c0der.pro/az/elaqe](https://c0der.pro/az/elaqe)
+- 💬 [WhatsApp: 051 994 12 20](https://wa.me/994519941220)
